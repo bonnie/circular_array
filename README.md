@@ -5,8 +5,8 @@ A circular array implementation based on a problem in "Cracking the Code Intervi
 The rotate doctests do not currently pass. 
 
 Other coders: 
-Colleen Blakelock
-Kelly Hoffer
-Ashley Hsiao
-Leslye Lu
-Aiden Ward
+* Colleen Blakelock
+* Kelly Hoffer
+* Ashley Hsiao
+* Leslye Lu
+* Aiden Ward
